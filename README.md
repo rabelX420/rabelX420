@@ -2,9 +2,6 @@
 <h3 align="center">Full-Stack Web Developer Passionate about building high-quality, scalable web applications. Skilled in both frontend and backend development, I create seamless, responsive, and efficient web solutions.</h3>
 
 
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **@mr_rabelX**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
